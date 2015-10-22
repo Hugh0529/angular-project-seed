@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+node_modules
+npm-debug.log
+dev/css/main.css
+dev/js/main.js
+dev/scss/main.css
+dev/scss/main.css.map
+dev/index.html
+dist/
+.project
+dev/index.html
+dev/bower_components/
+.tags
